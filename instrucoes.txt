@@ -1,0 +1,4 @@
+Na geração do frontend deu erro entao utilize:
+
+npm install -g create-react-app
+create-react-app frontend
